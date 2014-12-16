@@ -16,7 +16,9 @@ Linux version 3.17.3-armv7-x3
 
     --Nano Editor & VI Editor
 
-
+    --python
+    
+    --perl
 
 Network related packages:
 
